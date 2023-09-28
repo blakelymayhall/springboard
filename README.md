@@ -8,6 +8,9 @@ Preferably not needed to be plugged in (battery?) since people who use this have
 # Brainstorm
 
 ### Language(s)
+- Could use local server, JS, HTML, CSS
+- Could use C#
+- Could use Python
 
 ### UI / Features
 - On initial load, ask user to link calendar account
