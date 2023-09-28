@@ -21,3 +21,5 @@ Preferably not needed to be plugged in (battery?) since people who use this have
 - Buttons / Functions:
     - Dinner menu view
     - Week view 
+
+# Something called MagicMirror already exists 
